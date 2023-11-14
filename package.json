@@ -11,10 +11,6 @@
     "install": "cd server && npm ci && cd ../client && npm ci",
     "client": "npm --prefix client start"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jotex11/PWA-text"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
